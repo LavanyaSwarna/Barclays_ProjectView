@@ -22,4 +22,3 @@ Make Sure Input is given at Goto: \TheaterSeating\TheaterSeating\bin\Debug\Input
 (*empty space seperation needed in between every section and also between customer and number of tickets)
 (*empty line seperation needed in between layout and customerrequests)
 
- 
